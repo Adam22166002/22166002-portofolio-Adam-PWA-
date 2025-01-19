@@ -29,4 +29,4 @@ Proyek ini adalah portofolio pribadi yang responsif, dirancang dengan **Tailwind
 
 1. Clone repositori ini ke lokal Anda:  
    ```bash
-   git clonehttps://github.com/Adam22166002/22166002-portofolio-Adam-PWA-.git
+   git clone https://github.com/Adam22166002/22166002-portofolio-Adam-PWA-.git
