@@ -26,6 +26,18 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+.timeline-item::after {
+  content: "";
+  position: absolute;
+  display: block;
+  top: 0;
+  left: -38px;
+  background-color: #0099ff;
+  border-radius: 50%;
+  height: 11px;
+  width: 11px;
+  box-sizing: border-box;
+}
 
 @keyframes blink {
   0%,
