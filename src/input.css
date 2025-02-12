@@ -6,6 +6,11 @@ body {
   font-family: "Inter", sans-serif;
   margin: 0;
 }
+@media (prefers-color-scheme: dark) {
+  svg {
+    display: none;
+  }
+}
 
 .blinking-cursor {
   animation: blink 0.8s infinite;
