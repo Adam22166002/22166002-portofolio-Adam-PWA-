@@ -1,7 +1,8 @@
 # 🌐 Portfolio Adam Website PWA  
 
 Selamat datang di repositori **Portfolio Adam Berbasis PWA**! 🎉  
-Proyek ini adalah portofolio pribadi saya yang responsif, dirancang dengan **Tailwind CSS** untuk tampilan yang modern dan terintegrasi dengan **PWA (Progressive Web App)** untuk performa yang cepat dan pengalaman offline.
+Proyek ini adalah portofolio pribadi saya, Adam, yang dirancang untuk menampilkan berbagai proyek yang telah saya kerjakan serta dokumentasi terkait. Portofolio ini dibangun menggunakan teknologi Tailwind CSS untuk menciptakan tampilan modern dan responsif. Selain itu, aplikasi ini diintegrasikan dengan PWA (Progressive Web App) untuk memberikan performa cepat dan memungkinkan pengalaman offline yang mulus.
+Portofolio ini bertujuan untuk memperkenalkan berbagai proyek saya, mulai dari aplikasi web hingga dokumentasi proyek-proyek pengembangan perangkat lunak yang telah saya kerjakan.
 
 ## 🚀 Fitur Utama  
 - **Responsive Design**: Dibangun dengan Tailwind CSS, memastikan tampilan optimal di berbagai perangkat (desktop, tablet, dan smartphone).  
